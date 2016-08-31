@@ -8,13 +8,13 @@ This is an indexed, opinionated collection of articles/resources intended for ne
 * Articles with no symbol are still generally useful, but may be more situational.
 
 # Table of Contents
-1. [Networking and Social Media](#Networking-and-Social-Media)
-2. [Resume](#Resume)
-3. [Technical and Non-Technical Interviews](#Technical-and-Non-Technical-Interviews)
-4. [Negotiation](#Negotiation)
-5. [The Offer](#The-Offer)
-6. [Raises, Burnout, and Lifestyle](#Raises-Burnout-and-Lifestyle)
-7. [Other Resources](#Other-Resources)
+1. [Networking and Social Media](#networking-and-social-media)
+2. [Resume](#resume)
+3. [Technical and Non-Technical Interviews](#technical-and-non-technical-interviews)
+4. [Negotiation](#negotiation)
+5. [The Offer](#the-offer)
+6. [Raises, Burnout, and Lifestyle](#raises-burnout-and-lifestyle)
+7. [Other Resources](#other-resources)
 
 ## Networking and Social Media
 * [Don't Burn Bridges: A 4-Step Guide to Networking in Silicon Valley](https://www.giftrocket.com/blog/dont-burn-bridges)
