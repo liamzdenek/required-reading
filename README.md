@@ -3,7 +3,7 @@
 This is an indexed, opinionated collection of articles/resources intended for new developers. These articles focus on helping people navigate the entire job search ecosystem, deciding upon an offer, developer lifestyle, managing burnout. 
 
 ## How to Read This Guide
-* 💓- Heart - the article is REQUIRED reading and has a major impact on the entire job search process, or has vast implications on quality of life.
+* 💓 - Heart - the article is REQUIRED reading and has a major impact on the entire job search process, or has vast implications on quality of life.
 * 🍌 - Banana - the article does not have to be read until necessary. Wait until it is ripe.
 * Articles with no symbol are still generally useful, but may be more situational.
 
@@ -27,7 +27,7 @@ This is an indexed, opinionated collection of articles/resources intended for ne
 * [How to Win the Coding Interview](https://blog.devmastery.com/how-to-win-the-coding-interview-71ae7102d685#.z7f8gtc75) Summary: A good article covering the expectations of the interviewer through real-world examples.
 
 ## Negotiation
-* 🍎 [Make More Money, Be More Valued.](http://www.kalzumeus.com/2012/01/23/salary-negotiation/) Summary: The negotiation process is happening from the very first second, and successfully navigating it res`ults in higher pay, higher quality of life, and more respect from your peers. (and it's easier than you think)
+* 💓 [Make More Money, Be More Valued.](http://www.kalzumeus.com/2012/01/23/salary-negotiation/) Summary: The negotiation process is happening from the very first second, and successfully navigating it res`ults in higher pay, higher quality of life, and more respect from your peers. (and it's easier than you think)
 * (podcast) [Salary Negotiation with Josh Doody](http://www.kalzumeus.com/2016/06/03/kalzumeus-podcast-episode-12-salary-negotiation-with-josh-doody/) Summary: Overview on specific salary negotiation techniques
 
 ## The Offer
