@@ -44,3 +44,4 @@ This is an indexed, opinionated collection of articles/resources intended for ne
 * [Percona's MySQL Performance Blog](https://www.percona.com/blog/) Summary: You probably won't find much that qualifies as "immediately useful" by scrolling through their 300+ PAGES of blog posts. As you encounter high-level mysql questions (eg, "Which is more efficient, X or Y"), I would recommend googling, `site:percona.com X Y`. Some Percona required reading for any DBA:
  * [Indexing 101: Optimizing MySQL queries on a single table](https://www.percona.com/blog/2015/04/27/indexing-101-optimizing-mysql-queries-on-a-single-table/)
  * [MySQL's EXPLAIN Demystified](https://www.youtube.com/watch?v=ZoLoIFW1H6g) 
+* [Bootcamps vs. College](http://blog.triplebyte.com/bootcamps-vs-college)
