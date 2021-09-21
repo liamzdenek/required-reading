@@ -30,6 +30,9 @@ I've bisected this list into two lists, the 'essential' list and the 'supplement
 1. [I can't show you the most important video I've ever made by Taran Van Hemert](https://www.youtube.com/watch?v=m1xd2ImauKM)
 1. [DEFCON 19: Steal Everything, Kill Everyone, Cause Total Financial Ruin! by Jayson E. Street](https://www.youtube.com/watch?v=JsVtHqICeKE)
 1. [Ruby on Rails demo](https://www.youtube.com/watch?v=Gzj723LkRJY)
+1. [Money as a System of Control by Andreas M. Antonopoulos](https://www.youtube.com/watch?v=FyK4P7ZdOK8)
+1. Good to Great: Why Some Companies Make the Leap and Others Don't (Book by Jim Collins)
+   1. Built to Last: Successful Habits of Visionary Companies (Book by Jim Collins)
 
 ## Supplemental
 1. [Indexing 101: Optimizing MySQL queries on a single table](https://www.percona.com/blog/2015/04/27/indexing-101-optimizing-mysql-queries-on-a-single-table/)
