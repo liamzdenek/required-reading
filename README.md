@@ -33,6 +33,7 @@ I've bisected this list into two lists, the 'essential' list and the 'supplement
 1. [Money as a System of Control by Andreas M. Antonopoulos](https://www.youtube.com/watch?v=FyK4P7ZdOK8)
 1. Good to Great: Why Some Companies Make the Leap and Others Don't (Book by Jim Collins)
    1. Built to Last: Successful Habits of Visionary Companies (Book by Jim Collins)
+1. [Johnathan Blow on Deep Work](https://www.youtube.com/watch?v=4Ej_3NKA3pk)
 
 ## Supplemental
 1. [Indexing 101: Optimizing MySQL queries on a single table](https://www.percona.com/blog/2015/04/27/indexing-101-optimizing-mysql-queries-on-a-single-table/)
